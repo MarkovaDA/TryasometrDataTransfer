@@ -1,0 +1,15 @@
+su\vistar\tryasometrdatatransfer\config\SpringWebMVCConfig.class
+su\vistar\tryasometrdatatransfer\model\PitDto.class
+su\vistar\tryasometrdatatransfer\mapper\TryasometrMapper.class
+su\vistar\tryasometrdatatransfer\service\PathService.class
+su\vistar\tryasometrdatatransfer\service\SectionUpdateService.class
+su\vistar\tryasometrdatatransfer\model\ResponseEntity.class
+su\vistar\tryasometrdatatransfer\model\Acceleration.class
+su\vistar\tryasometrdatatransfer\mapper\DataMapper.class
+su\vistar\tryasometrdatatransfer\model\Section.class
+su\vistar\tryasometrdatatransfer\controller\ApiController.class
+su\vistar\tryasometrdatatransfer\model\Info.class
+su\vistar\tryasometrdatatransfer\config\SpringInitializer.class
+su\vistar\tryasometrdatatransfer\config\MyBatisConfig.class
+su\vistar\tryasometrdatatransfer\mapper\SensorDataProvider.class
+su\vistar\tryasometrdatatransfer\model\Location.class
